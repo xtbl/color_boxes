@@ -1,0 +1,8 @@
+.BoxesManager {
+    display: flex;
+    padding: 10rem;
+    margin-left: auto;
+    margin-right: auto;
+    flex-wrap: wrap;
+    background-color: moccasin;
+}
